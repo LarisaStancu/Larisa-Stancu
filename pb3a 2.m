@@ -1,7 +1,7 @@
 hold on;
 %folosesc aceasta intructiune pentru a pastra graficul curent atunci cand
 %adaug alt grafic
-%temporara de 2ms
+%rezolutie temporara de 2ms
 r1=rand(1);
 r2=rand(1);
 
@@ -14,5 +14,3 @@ plot(t2,x2);
 xlabel('T s')
 ylabel('A V ')
 title('Semnal dreptunghiular multinivel aleator')
-%am ales sa reprezint doua perioade, acestea se poate extinde procedand
-%aseamnator
