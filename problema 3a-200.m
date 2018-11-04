@@ -14,5 +14,3 @@ plot(t2,x2);
 xlabel('T s')
 ylabel('A V ')
 title('Semnal dreptunghiular multinivel aleator')
-%am ales sa reprezint doua perioade, acestea se poate extinde procedand
-%aseamnator
